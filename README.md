@@ -4,7 +4,7 @@ Identification of the Dominant Recombination Process for Perovskite Solar Cells 
 # Installation:
 
 To run the Jupyter Notebook, please install the following:
-Anaconda (https://www.anaconda.com/distribution/), which already consists of Jupyter Notebook, NumPy, pandas, matplotlib, seaborn, pickle, scikit-learn,joblib.  
+Anaconda (https://docs.anaconda.com/anaconda/install/), which already consists of Jupyter Notebook, NumPy, pandas, matplotlib, seaborn, pickle, scikit-learn, joblib.  
 Jupyter Notebook (https://jupyter.org/install.html)  
 There are several packages and/or libraries that need to be installed to run the notebook:
 
