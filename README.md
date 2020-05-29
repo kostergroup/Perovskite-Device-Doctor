@@ -19,7 +19,7 @@ Graphviz (https://pypi.org/project/graphviz/)
 
 # Data
 Note that the dataset saved in the .csv files dataset1 to 5 consist of over 10<sup>5</sup> simulated perovskite solar cells with their performance (V<sub>OC</sub>,J<sub>SC</sub> and FF) at (0.1,0.18,032,0.56,1) sun illuminations as well as the ideality factor (n).  
-This dataset was built using drift-diffusion simulation using open-source code SIMsalabim.  
+This dataset was built using drift-diffusion open-source code SIMsalabim.  
 (https://github.com/kostergroup/SIMsalabim)
 
 # Running
